@@ -10,5 +10,18 @@ package testgithub;
  * @author julien
  */
 public class classeuno {
+    public float wow;
+    boolean sticazzi=true;
+    
+    //vediamo se pure i commenti li vede
+    
+   
+
+    
+    
+    
+    
+
+    
     
 }
