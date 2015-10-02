@@ -18,4 +18,6 @@ public class TestGitHub {
         // TODO code application logic here
     }
     
+    float cazzone;
+    
 }
