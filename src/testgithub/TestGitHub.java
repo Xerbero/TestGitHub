@@ -19,6 +19,7 @@ public class TestGitHub {
         System.out.println("cazzone = " + String.valueOf(cazzone));
     }
     
-    static float cazzone;
+    static float cazzone= 0.1f;
+   
     
 }
