@@ -17,13 +17,17 @@ public class TestGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("cazzone = " + String.valueOf(cazzone2));
+        
+        while(true){
+            System.out.println("hahahahahahaha");
+        }
     }
     
-<<<<<<< HEAD
+
     static float cazzone= 0.1f;
    
-=======
+
     static float cazzone2 = 0.0f;
->>>>>>> ae98f07500ede4cda3a43b3d512715e5c9e26bdb
+
     
 }
