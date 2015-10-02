@@ -16,9 +16,9 @@ public class TestGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("cazzone = " + String.valueOf(cazzone));
+        System.out.println("cazzone = " + String.valueOf(cazzone2));
     }
     
-    static float cazzone;
+    static float cazzone2 = 0.0f;
     
 }
